@@ -1,0 +1,6 @@
+{
+  "name": "Macroeconomics Study Suite",
+  "description": "Interactive study companion, problem sets, and exam simulation for Macroeconomics (Krugman, Wells, Au, Parkinson - 3rd Canadian Edition) covering Chapters 7, 8, and 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
